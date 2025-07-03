@@ -2,6 +2,6 @@
 
 This is Martin :smile:
 
-![linkedin](https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmartin-vivar-toledo-93901b291%2F)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-vivar-toledo-93901b291/)
 
 :computer: Data Analyst
